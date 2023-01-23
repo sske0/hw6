@@ -22,11 +22,15 @@ namespace hw6
 
         //static int Divisionby7(int n)
         //{
-        //    if(n % 7 == 0)
-        //    {
-        //        return n;
-        //    }
-        //    else
+        //if (n % 7 == 0)
+        //{
+        //    return n;
+        //}
+        //else if (n % 7 > 3)
+        //{
+        //    return (n + 3) / 7 * 7;
+        //}
+        //else
         //    {
         //        return n / 7 * 7;
         //    }
